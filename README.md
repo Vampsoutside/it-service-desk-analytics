@@ -1,4 +1,12 @@
 # 📊 IT Service Desk Analytics
+![Domain](https://img.shields.io/badge/Domain-IT%20Service%20Desk-blue)
+![Project](https://img.shields.io/badge/Type-BI%20Case%20Study-purple)
+![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
+![Tickets](https://img.shields.io/badge/Tickets-97,498-orange)
+![Period](https://img.shields.io/badge/Years-2016--2020-lightgrey)
+![Agents](https://img.shields.io/badge/IT%20Agents-50-yellow)
+![Categories](https://img.shields.io/badge/Request%20Categories-4-informational)
+![Location](https://img.shields.io/badge/Based%20in-Faridabad%2C%20IN-red)
 ### Optimizing IT Support Operations Through Data-Driven Decision Making Using Microsoft Excel
 
 > An end-to-end Business Intelligence case study analyzing nearly **100,000 IT support tickets** to identify operational bottlenecks, evaluate agent performance, and recommend strategic investments that improve service efficiency and customer satisfaction.
