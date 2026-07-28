@@ -1,13 +1,12 @@
 # 📊 IT Service Desk Analytics
 
-![Domain](https://img.shields.io/badge/Domain-IT%20Service%20Desk-blue)
-![Project](https://img.shields.io/badge/Type-BI%20Case%20Study-purple)
-![Tool](https://img.shields.io/badge/Tool-Microsoft%20Excel-green)
-![Tickets](https://img.shields.io/badge/Tickets-97,498-orange)
-![Period](https://img.shields.io/badge/Years-2016--2020-lightgrey)
-![Agents](https://img.shields.io/badge/IT%20Agents-50-yellow)
-![Categories](https://img.shields.io/badge/Request%20Categories-4-informational)
-![Location](https://img.shields.io/badge/Based%20in-Faridabad%2C%20IN-red)
+![Domain](https://img.shields.io/badge/Domain-IT_Service_Desk-0d6efd?style=for-the-badge)
+![Project](https://img.shields.io/badge/Type-Case_Study-6f42c1?style=for-the-badge)
+![Tool](https://img.shields.io/badge/Tool-Microsoft_Excel-198754?style=for-the-badge)
+![Tickets](https://img.shields.io/badge/Tickets-97,498-f39c12?style=for-the-badge)
+![Period](https://img.shields.io/badge/Years-2016–2020-6c757d?style=for-the-badge)
+![Agents](https://img.shields.io/badge/IT_Agents-50-f8d030?style=for-the-badge)
+![Categories](https://img.shields.io/badge/Request_Categories-4-20c997?style=for-the-badge)
 ### Optimizing IT Support Operations Through Data-Driven Decision Making Using Microsoft Excel
 
 > An end-to-end Business Intelligence case study analyzing nearly **100,000 IT support tickets** to identify operational bottlenecks, evaluate agent performance, and recommend strategic investments that improve service efficiency and customer satisfaction.
@@ -296,6 +295,17 @@ If implemented effectively, these initiatives can:
 
 # Skills Demonstrated
 
+![Skill](https://img.shields.io/badge/data--analysis-%230d6efd?style=flat-square)
+![Skill](https://img.shields.io/badge/business--intelligence-%236f42c1?style=flat-square)
+![Skill](https://img.shields.io/badge/business--analytics-%236c757d?style=flat-square)
+![Skill](https://img.shields.io/badge/microsoft--excel-%23198754?style=flat-square)
+![Skill](https://img.shields.io/badge/dashboard-%23f39c12?style=flat-square)
+![Skill](https://img.shields.io/badge/data--visualization-%2320c997?style=flat-square)
+![Skill](https://img.shields.io/badge/EDA-%23fd7e14?style=flat-square)
+![Skill](https://img.shields.io/badge/KPI-%23dc3545?style=flat-square)
+![Skill](https://img.shields.io/badge/excel--dashboard-%238343e?style=flat-square)
+![Skill](https://img.shields.io/badge/case--study-%23adb5bd?style=flat-square)
+
 Business Intelligence
 
 Data Cleaning
@@ -349,4 +359,7 @@ This project demonstrates how spreadsheet analytics can move beyond reporting to
 
 **Kartik Singh**
 
-If you found this project interesting, feel free to connect with me on LinkedIn or explore the repository.
+If you found this project interesting, feel free to connect with me or explore the repository.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kartik_Singh-%230077B5?style=for-the-badge)](https://www.linkedin.com/in/kartik-singh-54854a216)
+[![Substack](https://img.shields.io/badge/Substack-Kainsrt-%23FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@kainsrt)
