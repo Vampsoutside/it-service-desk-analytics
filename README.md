@@ -136,9 +136,7 @@ The primary objectives of this project are to:
 IT-Service-Desk-Analytics
 │
 ├── 📄 README.md
-├── 📂 dashboard/
-│   └── 📊 IT_Service_Desk_Dashboard.xlsx
-├── 📂 dataset/
+├── 📂 data/
 │   ├── 📄 Raw_Data.xlsx
 │   └── 📄 Cleaned_Data.xlsx
 ├── 📂 presentation/
